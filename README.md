@@ -14,6 +14,8 @@
 ## 🙋 About Me
 - 🌱 I’m currently learning AWS and Alteryx Data Engineering Concepts
 - 📫 How to reach me:
+  -  Email: [afakira1@outlook.com](mailto:afakira1@outlook.com)
+  -  LinkedIn: [linkedin.com/in/amerfakira](https://www.linkedin.com/in/amerfakira)
   
 
 <!--
