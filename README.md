@@ -2,7 +2,7 @@
 
 ## 🧠 Data Projects
 - **Machine Learning**
-  - [Project A: Predictive Modeling](link)
+  - [BlueBikes: Predictive Modeling](link)
   - [Project B: NLP Text Classification](link)
 - **Statistics & Analytics**
   - [Project C: Time Series Forecasting](link)
