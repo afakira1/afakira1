@@ -2,7 +2,7 @@
 
 ## 🧠 Data Projects
 - **Machine Learning**
-  - [BlueBikes: Predictive Modeling](link)
+  - [BlueBikes: Predictive Modeling](https://github.com/afakira1/BlueBikesML)
   - [Project B: NLP Text Classification](link)
 - **Statistics & Analytics**
   - [Project C: Time Series Forecasting](link)
