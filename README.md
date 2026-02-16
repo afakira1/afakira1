@@ -1,11 +1,13 @@
-## Hi, I'm Amer, and I am a Data Professional!
+## Hi, I'm Amer 👋
+
+I’m a data analyst with graduate training in Business Analytics and Finance, focused on building scalable data pipelines, automation workflows, and predictive models that support strategic decision-making.
 
 ## 🧠 Data Projects
 - **Machine Learning**
   - [BlueBikes: Predictive Modeling](https://github.com/afakira1/BlueBikesML)
-  - [Project B: NLP Text Classification](link)
-- **Statistics & Analytics**
-  - [Project C: Time Series Forecasting](link)
+  <!-- - [Project B: NLP Text Classification](link) -->
+<!-- - **Statistics & Analytics**
+  - [Project C: Time Series Forecasting](link) -->
 - **Visualization**
   - [Olist](https://public.tableau.com/app/profile/amer.fakira1876/viz/OlistProject_17089860957040/Dashboard1)
 - **Automation**
