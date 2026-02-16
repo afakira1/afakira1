@@ -9,7 +9,7 @@
 - **Visualization**
   - [Olist](https://public.tableau.com/app/profile/amer.fakira1876/viz/OlistProject_17089860957040/Dashboard1)
 - **Automation**
-  - [Project E: Web Scraper & API Integration](link)
+  - [AILife Insurance: Web Scraper & Data Set Integration](https://github.com/afakira1/InsuranceScraper)
  
 ## 🙋 About Me
 - 🌱 I’m currently learning AWS and Alteryx Data Engineering Concepts
